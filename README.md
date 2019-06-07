@@ -7,4 +7,8 @@ add Some
 more text
 
 
+<<<<<<< HEAD
 Problem
+=======
+This will cause problem
+>>>>>>> very-bad
